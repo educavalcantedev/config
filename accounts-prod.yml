@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related webhooks (new test 241233331) APIs"
+  message: "Welcome to EazyBank accounts related webhooks (new test 8782) APIs"
   contactDetails:
     name: "Chris Adam - Product Owner"
     email: "chrisadam@gmail.com"
